@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proyecto_Juego_Spike
 {
-    public partial class Form1 : Form
+    public partial class FrmSpike : Form
     {
-        public Form1()
+        public FrmSpike()
         {
             InitializeComponent();
         }
